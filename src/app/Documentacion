@@ -1,0 +1,5 @@
+Documentacion Angular: 
+- Generar un componente en Angular:
+ng generate component gifs/gifsPage --skip-test -s
+
+VMYzX9uhuFneJtLVVG3ChTwKdDMFCSRR
